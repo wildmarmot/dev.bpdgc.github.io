@@ -1,2 +1,1 @@
-# dev.bpdgc.github.io
-Black Pond Disc Golf Classic - Dev
+# https://wildmarmot.github.io/dev.bpdgc.github.io/
